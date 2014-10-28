@@ -1,0 +1,7 @@
+---------------------------------
+Program Description
+---------------------------------
+
+This program will keep track of the data of individual active
+members by recording their study table hours and other hours 
+of study.
