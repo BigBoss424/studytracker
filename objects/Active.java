@@ -75,7 +75,7 @@ public class Active
 
 	public int getHoursRequired(int hR)
 	{
-	  return hR
+	  return hR;
 	}
 
 	public void setHoursRequired(int hR)
